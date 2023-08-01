@@ -21,16 +21,16 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: linear-gradient(purple,orange);
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Arial', serif;
+  color: red;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 7em;
   margin-bottom: 0;
 }
 
